@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Adrian
 
-<!--
-**apzskiii23/apzskiii23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student, learning to become a pentester.  
+Currently exploring **Python, Linux**, and diving into cybersecurity via **TryHackMe** and **CompTIA A+**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Goals for 2025
+- Build my first Python projects 💻
+- Learn Linux for real 🐧
+- Finish CompTIA A+ certification 📜
+- Finish Security+ certification 📜
+- Solve CTFs and cybersecurity challenges 🔐
+
+---
+
+### 📚 Learning Log
+I'm posting my daily learning progress in a repo called `hack-me-gently`.
+
+---
+
+### 🛠️ Tech I'm using
+- Python 🐍
+- Bash / PowerShell
+- Markdown & Git
+
+---
+
+### 🤓 Fun fact
+I fix cars electronics and break code. Sometimes the other way around.
+
+---
